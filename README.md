@@ -1,59 +1,41 @@
 # JumpCloud
 
-¡Bienvenido/a al repositorio Nombre del Repositorio!
+Welcome to the Repository Name Repository!
 
-## Estructura de Carpetas
+Folder Structure
+The repository is organized into the following folders:
 
-El repositorio está organizado en las siguientes carpetas:
+Folder 1: Description of Folder 1.
+Folder 2: Description of Folder 2.
+Folder 3: Description of Folder 3.
+Installation
+Clone this repository to your local machine:
+git clone https://github.com/your-username/repository-name.git
 
-- **Carpeta 1**: Descripción de la carpeta 1.
-- **Carpeta 2**: Descripción de la carpeta 2.
-- **Carpeta 3**: Descripción de la carpeta 3.
+Navigate to the cloned folder:
+cd repository-name
 
-## Instalación
+Usage
+Here you can describe how to use or work with the project. Provide examples or clear instructions to help users get started.
 
-1. Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+Contribution
+Contributions are welcome. If you wish to make significant changes or add new features, follow these steps:
 
-css
-Copy code
+Fork this repository.
 
-2. Navega a la carpeta clonada:
-cd nombre-del-repositorio
+Create a new branch:
+git checkout -b my-branch
 
-markdown
-Copy code
+Make the necessary changes and commit:
+git commit -am 'Add a new feature'
 
-## Uso
+Push to the branch:
+git push origin my-branch
 
-Aquí puedes describir cómo utilizar o trabajar con el proyecto. Proporciona ejemplos o instrucciones claras para ayudar a los usuarios a comenzar.
+Open a Pull Request on GitHub.
 
-## Contribución
+License
+This project is under the [license name] License. Refer to the LICENSE file for more details.
 
-Las contribuciones son bienvenidas. Si deseas realizar cambios importantes o agregar nuevas características, sigue los siguientes pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama:
-git checkout -b mi-rama
-
-markdown
-Copy code
-3. Realiza los cambios necesarios y realiza commit:
-git commit -am 'Agrega una nueva función'
-
-css
-Copy code
-4. Push a la rama:
-git push origin mi-rama
-
-markdown
-Copy code
-5. Abre un Pull Request en GitHub.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [nombre de la licencia]. Consulta el archivo `LICENSE` para obtener más detalles.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con 
+Contact
+If you have any questions or suggestions, feel free to get in touch with [contact name]."
