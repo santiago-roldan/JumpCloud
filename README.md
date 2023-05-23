@@ -6,27 +6,22 @@ Welcome to the Repository Name Repository!
 
 The repository is organized into the following folders:
 
-- **Folder 1**: Description of Folder 1.
-- **Folder 2**: Description of Folder 2.
-- **Folder 3**: Description of Folder 3.
+- **Utils**: In this folder you'll find the files service.py, credentials.py and variables.py, you'll have to fill the with your own data for the code to work properly.
+- **Jumpcloud**: It's the general location with the scripts to manage your Jumpcloud environmnet.
 
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/santiago-roldan/JumpCloud.git
 
-css
-Copy code
 
 2. Navigate to the cloned folder:
-cd repository-name
+cd JumpCloud
 
-csharp
-Copy code
 
 ## Usage
 
-Here you can describe how to use or work with the project. Provide examples or clear instructions to help users get started.
+You have to replace the variables values in the utils/credentials.py and utils/variables.py with your jumpcloud's environment data for the code to work properly
 
 ## Contribution
 
@@ -34,28 +29,19 @@ Contributions are welcome. If you wish to make significant changes or add new fe
 
 1. Fork this repository.
 2. Create a new branch:
-git checkout -b my-branch
+git checkout -b <BRANCH NAME>
 
-markdown
-Copy code
 
 3. Make the necessary changes and commit:
 git commit -am 'Add a new feature'
 
-css
-Copy code
 
 4. Push to the branch:
-git push origin my-branch
+git push origin <BRANCH NAME>
 
-csharp
-Copy code
 
 5. Open a Pull Request on GitHub.
 
-## License
-
-This project is under the [license name] License. Refer to the `LICENSE` file for more details.
 
 ## Contact
 
