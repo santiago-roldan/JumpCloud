@@ -1,6 +1,6 @@
 # JumpCloud
 
-Welcome to the Repository Name Repository!
+Welcome to my Jumpcloud Repository!
 
 ## Folder Structure
 
