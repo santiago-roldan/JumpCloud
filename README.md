@@ -6,7 +6,10 @@ Welcome to the Repository Name Repository!
 
 The repository is organized into the following folders:
 
-- **Utils**: In this folder you'll find the files service.py, credentials.py and variables.py, you'll have to fill the with your own data for the code to work properly.
+- **Utils**: In this folder you'll find the following files:
+  -  **service.py**: In this file you'll find the main class and methods to perform several actions in your JumpCloud Environment.
+  -  **credentials.py**: Here you'll have to fill with your own API Key and Org ID
+  -  **variables.py**: You can fill this file with your JumpCloud variables, like user's IDs or device group's IDs, in order to make it easier to handdle
 - **Jumpcloud**: It's the general location with the scripts to manage your Jumpcloud environmnet.
 
 ## Installation
